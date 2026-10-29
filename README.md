@@ -3,5 +3,6 @@ Aaaah la texture DURAK qui remplace le H basique d'une map allemande... Ouais c'
 
 Voici une texture HBusstop.tga originale afin de corriger la texture DURAK, et retrouver un bon vieux H original: il suffit de la placer dans le dossier OMSI 2\Sceneryobjects\Generic\texture.
 
-Aucune licence (c'est une texture originale du jeu)
-Kowzii - 2026
+
+***Il est formellement INTERDIT de réupload ce mod en dehors de ses canaux officiels (Omsistuff)***<br>
+***Tous droits réservés - Kowzi - 2026***
